@@ -1,0 +1,29 @@
+body
+{
+	background: #000;
+	color: #FFF;
+	margin: 0;
+	font-family: sans-serif;
+}
+#canvas
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.punkt
+{
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	background: #FFF;
+	border-radius: 100%;
+}
+.fps
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: #0008;
+	padding: 5px;
+}
